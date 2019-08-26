@@ -4,15 +4,15 @@ Current animation types:
 
 * none: No animation.
 * touchCenterCircleFill
-    ![](TouchCenterCircleFill.gif)
+    ![](AnimationGif/TouchCenterCircleFill.gif)
 * touchCenterFill
-    ![](TouchCenterFill.gif)
+    ![](AnimationGif/TouchCenterFill.gif)
 * verticalCenterFill
-    ![](VerticalCenterFill.gif)
+    ![](AnimationGif/VerticalCenterFill.gif)
 * horizontalCenterFill
-    ![](HorizontalCenterFill.gif)
+    ![](AnimationGif/HorizontalCenterFill.gif)
 * bottomToTopFill
-    ![](BottomToTopFill.gif)
+    ![](AnimationGif/BottomToTopFill.gif)
 * topToBottomFill
-    ![](TopToBottomFill.gif)
+    ![](AnimationGif/TopToBottomFill.gif)
 
