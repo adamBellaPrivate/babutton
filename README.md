@@ -18,6 +18,6 @@ Current animation types:
 * **bottomToTopFill**<br/>
     ![](AnimationGif/BottomToTopFill.gif)
     <br/><br/>
-* **opToBottomFill**<br/>
+* **topToBottomFill**<br/>
     ![](AnimationGif/TopToBottomFill.gif)
 
